@@ -73,3 +73,6 @@
 [submodule "randomizer/8/Topa_Gio"]
 	path = randomizer/8/Topa_Gio
 	url = https://github.com/gTopa/softdev.git
+[submodule "randomizer/8/Lin_Sharon"]
+	path = randomizer/8/Lin_Sharon
+	url = https://github.com/sharon-lin/SoftDev-Exercises
