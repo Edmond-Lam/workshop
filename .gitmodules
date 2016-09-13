@@ -61,3 +61,6 @@
 [submodule "randomizer/8/SoftDev-Exercises"]
 	path = randomizer/8/SoftDev-Exercises
 	url = https://github.com/sharon-lin/SoftDev-Exercises
+[submodule "randomizer/6/Ayman-Nala"]
+	path = randomizer/6/Ayman-Nala
+	url = https://github.com/eccentricayman/randomizah.git
