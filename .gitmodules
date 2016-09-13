@@ -40,3 +40,6 @@
 [submodule "randomizer/9/richard_wang"]
 	path = randomizer/9/richard_wang
 	url = https://github.com/RichardzWang/Richard_Misha.git
+[submodule "randomizer/6/Ely-Reo"]
+	path = randomizer/6/Ely-Reo
+	url = https://github.com/esandine/SystemsHW1.git
