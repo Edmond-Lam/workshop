@@ -28,3 +28,6 @@
 [submodule "randomizer/8/Zeng_Haley"]
 	path = randomizer/8/Zeng_Haley
 	url = https://github.com/hhzrabbit/softdev.git
+[submodule "randomizer/9/Will_Ostlund"]
+	path = randomizer/9/Will_Ostlund
+	url = https://github.com/wostlund/William_Ostlund
