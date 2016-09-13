@@ -10,3 +10,6 @@
 [submodule "randomizer/8/Schluger_Jack"]
 	path = randomizer/8/Schluger_Jack
 	url = https://github.com/jschluger/randomizer.git
+[submodule "randomizer/6/Brian-Shaeq-Wilson"]
+	path = randomizer/6/Brian-Shaeq-Wilson
+	url = git@github.com:brian-yang/SoftDev-Randomizer.git
