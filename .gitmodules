@@ -43,3 +43,6 @@
 [submodule "randomizer/6/Ely-Reo"]
 	path = randomizer/6/Ely-Reo
 	url = https://github.com/esandine/SystemsHW1.git
+[submodule "randomizer/6/Patrick_Daniel"]
+	path = randomizer/6/Patrick_Daniel
+	url = https://github.com/chiudaniels/DanielandPatrick.git
