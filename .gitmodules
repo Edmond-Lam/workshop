@@ -4,6 +4,12 @@
 [submodule "randomizer/6/Janet"]
 	path = randomizer/6/Janet
 	url = git@github.com:janetzhang321/00.git
+<<<<<<< HEAD
 [submodule "randomizer/8/fichter_noah"]
 	path = randomizer/8/fichter_noah
 	url = https://github.com/nfichter/SoftDev.git
+=======
+[submodule "randomizer/8/Schluger_Jack"]
+	path = randomizer/8/Schluger_Jack
+	url = https://github.com/jschluger/randomizer.git
+>>>>>>> 8dfa5b18a965cd1dcd0894fd966054ea51fb8205
