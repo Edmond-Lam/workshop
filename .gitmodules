@@ -55,3 +55,6 @@
 [submodule "randomizer/9/SoftDev"]
 	path = randomizer/9/SoftDev
 	url = https://github.com/aliang8/SoftDev.git
+[submodule "randomizer/9/anthony_liang"]
+	path = randomizer/9/anthony_liang
+	url = https://github.com/aliang8/SoftDev.git
