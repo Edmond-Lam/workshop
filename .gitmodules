@@ -19,3 +19,6 @@
 [submodule "randomizer/9/zicheng_zhen"]
 	path = randomizer/9/zicheng_zhen
 	url = https://github.com/Zzcnick/randomize.git
+[submodule "randomizer/9/William_Ostlund"]
+	path = randomizer/9/William_Ostlund
+	url = https://github.com/wostlund/William_Ostlund
