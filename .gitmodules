@@ -22,3 +22,6 @@
 [submodule "randomizer/9/William_Ostlund"]
 	path = randomizer/9/William_Ostlund
 	url = https://github.com/wostlund/William_Ostlund
+[submodule "randomizer/8/Keller_Anya"]
+	path = randomizer/8/Keller_Anya
+	url = https://github.com/anyakeller/Keller_Anya.git
