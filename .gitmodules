@@ -34,6 +34,3 @@
 [submodule "randomizer/6/Jason-Yikai"]
 	path = randomizer/6/Jason-Yikai
 	url = https://github.com/jchua1/randomizer.git
-[submodule "Marks_Gabriel"]
-	path = Marks_Gabriel
-	url = git@github.com:71619997a/StudentChooser.git
