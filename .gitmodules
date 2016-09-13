@@ -49,3 +49,6 @@
 [submodule "randomizer/9/MaxBertfield_SarahYoon_ShamaulDilmohamed"]
 	path = randomizer/9/MaxBertfield_SarahYoon_ShamaulDilmohamed
 	url = https://github.com/maxbert/ShamaulSarahMaxDilmohamedYoonBertfield.git
+[submodule "randomizer/6/LindseyAndZiyan"]
+	path = randomizer/6/LindseyAndZiyan
+	url = https://github.com/lindseyma/LindseyAndZiyan
