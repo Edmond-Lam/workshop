@@ -31,3 +31,6 @@
 [submodule "randomizer/9/Will_Ostlund"]
 	path = randomizer/9/Will_Ostlund
 	url = https://github.com/wostlund/William_Ostlund
+[submodule "randomizer/6/Jason-Yikai"]
+	path = randomizer/6/Jason-Yikai
+	url = https://github.com/jchua1/randomizer.git
