@@ -16,3 +16,6 @@
 [submodule "randomizer/8/Xiang_William"]
 	path = randomizer/8/Xiang_William
 	url = https://github.com/wxiang54/RandStudentChooser.git
+[submodule "randomizer/9/zicheng_zhen"]
+	path = randomizer/9/zicheng_zhen
+	url = https://github.com/Zzcnick/randomize.git
