@@ -67,3 +67,6 @@
 [submodule "randomizer/9/Kate_Jessica"]
 	path = randomizer/9/Kate_Jessica
 	url = git@github.com:katelyj/HW0_JessicaKate.git
+[submodule "randomizer/9/BigL-SeijiYawata"]
+	path = randomizer/9/BigL-SeijiYawata
+	url = https://github.com/P0rkins/BigL-SeijiYawata.git
