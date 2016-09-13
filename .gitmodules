@@ -37,3 +37,6 @@
 [submodule "randomizer/8/Marks_Gabriel"]
 	path = randomizer/8/Marks_Gabriel
 	url = git@github.com:71619997a/StudentChooser.git
+[submodule "randomizer/9/richard_wang"]
+	path = randomizer/9/richard_wang
+	url = https://github.com/RichardzWang/Richard_Misha.git
